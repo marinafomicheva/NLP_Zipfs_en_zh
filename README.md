@@ -1,6 +1,6 @@
 # NLP_ex_1
 
-Content:
+# Content:
 
 Zipf's Law English - code for English
 
@@ -16,7 +16,7 @@ english_frequencies.csv - English frequencies for plotting
 
 en_zh_plot - code for plotting two languages on the same graph
 
-Dependencies: English Lyrics
+# Dependencies: English Lyrics
 
 These dependencies need to be installed and imported before running the code to ensure that the required functionality is available for execution.
 
@@ -31,7 +31,7 @@ These dependencies need to be installed and imported before running the code to 
 
 You can install the dependencies using pip.
 
-Dependencies: Chinese Lyrics
+# Dependencies: Chinese Lyrics
 
 These dependencies need to be installed and imported before running the code to ensure that the required functionality is available for execution.
 - **re**: Provides support for regular expressions in Python.
@@ -44,7 +44,7 @@ These dependencies need to be installed and imported before running the code to 
 
 You can install the dependencies using pip.
 
-Dependencies: Plotting two languages on the same graph.
+# Dependencies: Plotting two languages on the same graph.
 
 - **matplotlib.pyplot (plt)**: Plotting library for creating visualizations.
 - **numpy (np)**: Numerical computing library.
