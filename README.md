@@ -3,13 +3,17 @@
 Content:
 
 Zipf's Law English - code for English
+
 all_lyrics.csv - dataset rap and hip-hop lyrics in English
 
 Zipf's Law Chinese - code for Chinese
+
 lyrics.txt - dataset rap and hip-hop lyrics in Chinese
 
 chinese_frequencies.csv - Chinese frequencies for plotting
+
 english_frequencies.csv - English frequencies for plotting
+
 en_zh_plot - code for plotting two languages on the same graph
 
 Dependencies: English Lyrics
