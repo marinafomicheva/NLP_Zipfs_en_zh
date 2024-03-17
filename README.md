@@ -1,20 +1,14 @@
-# NLP_ex_1
+# 🎵 Zipf’s Law of Abbreviation for Rap Lyrics
 
-# Content:
+# In this repository, you'll find:
 
-Zipf's Law English - code for English
-
-all_lyrics.csv - dataset rap and hip-hop lyrics in English
-
-Zipf's Law Chinese - code for Chinese
-
-lyrics.txt - dataset rap and hip-hop lyrics in Chinese
-
-chinese_frequencies.csv - Chinese frequencies for plotting
-
-english_frequencies.csv - English frequencies for plotting
-
-en_zh_plot - code for plotting two languages on the same graph
+- Zipf's Law English: Code for English analysis.
+- all_lyrics.csv: Dataset containing rap and hip-hop lyrics in English.
+- Zipf's Law Chinese: Code for Chinese analysis.
+- lyrics.txt: Dataset containing rap and hip-hop lyrics in Chinese.
+- chinese_frequencies.csv: Chinese frequencies for plotting.
+- english_frequencies.csv: English frequencies for plotting.
+- en_zh_plot: Code for plotting two languages on the same graph.
 
 # Dependencies: English Lyrics
 
@@ -29,8 +23,6 @@ These dependencies need to be installed and imported before running the code to 
 - **collections.Counter**: Used for counting word frequencies.
 - **numpy (np)**: Numerical computing library.
 
-You can install the dependencies using pip.
-
 # Dependencies: Chinese Lyrics
 
 These dependencies need to be installed and imported before running the code to ensure that the required functionality is available for execution.
@@ -41,8 +33,6 @@ These dependencies need to be installed and imported before running the code to 
 - **matplotlib.pyplot (plt)**: Plotting library for creating visualizations.
 - **collections.Counter**: Used for counting word frequencies.
 - **numpy (np)**: Numerical computing library.
-
-You can install the dependencies using pip.
 
 # Dependencies: Plotting two languages on the same graph.
 
